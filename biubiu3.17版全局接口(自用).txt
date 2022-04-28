@@ -1,7 +1,7 @@
 //→→→
 //BiuBiu播放器专用(biubiu3.1.7版全局接口→2022.4.28)
 //→→→
-//自用地址:→https://wds.ecsxs.com/213256.txt
+//自用地址:→https://wds.ecsxs.com/-----.txt
 //备份地址:→https://cdn.jsdelivr.net/gh/king1161/TV_biubiu/biubiu3.17版全局接口(自用).txt
 // 强制刷新地址:→https://purge.jsdelivr.net/gh/king1161/TV_biubiu/biubiu3.17版全局接口(自用).txt
 //直播源(自维护): →https://wds.ecsxs.com/224336.txt
